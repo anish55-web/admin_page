@@ -1,0 +1,50 @@
+/* Custom Container */
+.custom-container {
+    background-color: black; 
+  }
+  
+  /* Custom Card */
+  .custom-card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    background-color: #ffffff; /* White background */
+  }
+  
+  /* Custom Title */
+  .custom-title {
+    color: #495057; /* Dark gray title */
+    font-weight: bold;
+  }
+  
+  /* Custom Input */
+  .custom-input {
+    border: 2px solid #ced4da;
+    border-radius: 8px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+  }
+  
+  .custom-input:focus {
+    border-color: #6c757d;
+    box-shadow: 0 0 5px rgba(108, 117, 125, 0.5);
+  }
+  
+  /* Custom Labels */
+  .custom-label {
+    font-weight: 600;
+    color: #495057;
+    margin-bottom: 6px;
+  }
+  
+  /* Custom Button */
+  .custom-button {
+    background-color: #343a40; /* Dark gray */
+    color: #ffffff;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+  }
+  
+  .custom-button:hover {
+    background-color: #23272b;
+  }
+  
